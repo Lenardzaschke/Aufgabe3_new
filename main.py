@@ -1,5 +1,8 @@
 from calculation import calc_mean
 from my_functions import estimate_max_hr, build_person, build_experiment
+from calculation import calc_mean
+from my_functions import estimate_max_hr, build_person, build_experiment
+from my_classes import Person, Experiment
 
 if __name__ == "__main__":
     liste = [1,2,3]
